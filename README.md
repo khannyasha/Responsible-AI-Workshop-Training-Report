@@ -42,7 +42,7 @@ This repository contains the project report and supplementary materials from the
 ### Steps to Reproduce Labs
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/responsible-ai-workshop
+   git clone https://github.com/ruyakubu/RAI-HUB-Training-materials?WT.mc_id=aiml-114127-cxa
    ```
 2. Follow the instructions in the `labs` folder for each session.
 3. Use the provided datasets and tools to complete the exercises.
